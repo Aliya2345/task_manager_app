@@ -98,5 +98,6 @@ A Flutter-based task manager app built for an internship assessment.
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/Aliya2345/task\_manager\_app.git
+&nbsp;  git clone https://github.com/Aliya2345/task_manager_app.git
+
 
